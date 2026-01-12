@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupalnaddy6-max.github.io/yhj/sitemap.xml
